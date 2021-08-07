@@ -7,7 +7,7 @@
 
 
 
-<img align="right" alt="img" src="./header.png" width="50%" height="auto" />
+<img align="right" alt="img" src="./header2.png" width="50%" height="auto" />
 
 <br></br>
 <br></br>
