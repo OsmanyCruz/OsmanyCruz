@@ -22,14 +22,7 @@ and Ilove what I do.
 <h5><a href='mailto:osmanycruzgarcia@gmail.com'>LET'S CHAT!</a></h5> 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
+  
 <h1 align='center'>SKILLS!</h1> 
 <br>
 
