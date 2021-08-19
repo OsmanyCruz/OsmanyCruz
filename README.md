@@ -15,7 +15,7 @@
 <h1>Talk is cheap.<br> Show me the code</h1> 
  
 I design and code beautifully simple thing.
-and Ilove what I do.
+and I love what I do.
 <br>
 <br>
 <br>
