@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osmanycruz/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:osmanycruzgarcia@gmail.com)
  
-<h2 align="left" >Hello! <img src="./Hi.gif" width="40px">  I'm Osmany Cruz </h2> 
+<h2 align="left" >Hello! <img src="./Hi.gif" width="40px"> <br> I'm Osmany Cruz </h2> 
 
 
 
