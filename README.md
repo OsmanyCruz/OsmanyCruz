@@ -22,11 +22,11 @@ and I love what I do.
 <h5><a href='mailto:osmanycruzgarcia@gmail.com'>LET'S CHAT!</a></h5> 
 <br>
 
-- 🔭 I’m currently working on **Flutter Projets**
+-  🔭 I’m currently working on **Flutter Projets**
 
-- 🌱 I’m currently learning **ARCore for building augmented reality apps**
+-  🌱 I’m currently learning **ARCore for building augmented reality apps**
 
-- 💬 Ask me about **Flutter,Laravel,Node**
+-  💬 Ask me about **Flutter,Laravel,Node**
 
 
 
